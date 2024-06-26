@@ -1,4 +1,12 @@
-## Hi there 👋
+## Oi, Meu nome Cristofer
+
+sou estudante na [ALURA](https://www.alura.com.br)
+
+-1
+-2
+-3
+
+![](https://media1.tenor.com/m/GNPs4yC-wYgAAAAC/44.gif)
 
 <!--
 **cristofersantos17/cristofersantos17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
